@@ -11,7 +11,7 @@ namespace IntroPgm
         {
           //Console.WriteLine("Hello World!");
           //Console.ReadKey();
-          Debug.WriteLine("Hello World!");
+          Debug.WriteLine("Hello new World!");
 
             //Adding 2 numbers
 
